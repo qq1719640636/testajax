@@ -10,6 +10,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import net.sf.json.JSONArray;
+/**
+ * 
+ * @author wangzy
+ *
+ */
 
 public class SearchServlet extends HttpServlet{
 	static List<String> datas = new ArrayList<String>();
